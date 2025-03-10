@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+<classical>  
+<MovieName>yevdu</MovieName> 
+<ReleaseYear>2016</ReleaseYear>  
+</classical>
+
+<classical>  
+<MovieName>phir hera pheri</MovieName> 
+<ReleaseYear>2014</ReleaseYear>  
+</classical>
+
+<action>  
+<MovieName>kgf</MovieName> 
+<ReleaseYear>2020</ReleaseYear>  
+</action>
+
+<action>  
+<MovieName>pushpa</MovieName> 
+<ReleaseYear>2024</ReleaseYear>  
+</action>
+
+<horror>  
+<MovieName>kanchna</MovieName> 
+<ReleaseYear>2017</ReleaseYear>  
+</horror>
+
+<horror>  
+<MovieName>munjya</MovieName> 
+<ReleaseYear>2024</ReleaseYear>  
+</horror>
+
+</category>

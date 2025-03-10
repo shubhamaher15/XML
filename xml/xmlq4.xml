@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course>
+<SYBBACA>
+<Studentname>ShubhamAher</Studentname>
+<Classname>SYBBA CA</Classname>
+<percentage>90%</percentage>
+</SYBBACA>
+<SYBBACA>
+<Studentname>Shree Aher</Studentname>
+<Classname>SYBBA CA</Classname>
+<percentage>96%</percentage>
+</SYBBACA>
+<SYBBACA>
+<Studentname>Shrddha Aher</Studentname>
+<Classname>SYBBA CA</Classname>
+<percentage>89%</percentage>
+</SYBBACA>
+<SYBBACA>
+<Studentname>Sai Aher</Studentname>
+<Classname>SYBBA CA</Classname>
+<percentage>85%</percentage>
+</SYBBACA>
+<SYBBACA>
+<Studentname>Ayush Aher</Studentname>
+<Classname>SYBBA CA</Classname>
+<percentage>86%</percentage>
+</SYBBACA>
+</Course>

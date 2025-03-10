@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books>
+<Book id="101" categeory="Poetry">
+<Bookname>The sun and her flowers</Bookname>
+<Bookrelease>2017</Bookrelease>
+<BookAuthor>Rupi Kaur</BookAuthor>
+</Book>
+<Book id="102" categeory="Nonfication Book">
+<Bookname>The Psychologoy of Stupidity</Bookname>
+<Bookrelease>2020</Bookrelease>
+<BookAuthor>Jean-Francois Marmion</BookAuthor>
+</Book>
+<Book id="103" categeory="Thriller">
+<Bookname>The Other Side of Night</Bookname>
+<Bookrelease>2022</Bookrelease>
+<BookAuthor>Adam Hamdy</BookAuthor>
+</Book>
+</Books>
+

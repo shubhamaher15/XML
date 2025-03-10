@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu> 
+<food> 
+<name>French Fries</name> 
+<price>Rs45</price> 
+<description>Young youths are very much intrested to eat it </description> 
+<calories>650</calories> 
+</food>
+
+<food> 
+<name>pohaa</name> 
+<price>Rs35</price> 
+<description>Young youths are very much intrested to eat it </description> 
+<calories>250</calories> 
+</food>
+
+<food> 
+<name>upma</name> 
+<price>Rs50</price> 
+<description>Young youths are very much intrested to eat it </description> 
+<calories>150</calories> 
+</food>
+
+<food> 
+<name>dosa</name> 
+<price>Rs80</price> 
+<description>Young youths are very much intrested to eat it </description> 
+<calories>450</calories> 
+</food>
+ 
+</breakfast_menu> 

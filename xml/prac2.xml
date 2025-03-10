@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CemployeeTeam> 
+   <Team Name="Red"> 
+   <Ename> om</Ename> 
+ <Eexperience> 5years</Eexperience > 
+ <Emobno>8698330021 </Emobno > 
+ <Eaddress>pune maharastra</Eaddress> 
+  </Team>
+
+<Team Name="green"> 
+   <Ename>saii</Ename > 
+ <Eexperience>8years</Eexperience > 
+ <Emobno>8698451260</Emobno > 
+ <Eaddress>dhule</Eaddress> 
+  </Team>
+
+<Team Name="white"> 
+   <Ename>ram</Ename > 
+ <Eexperience> 2years</Eexperience > 
+ <Emobno> 9856451275</Emobno > 
+ <Eaddress>shridii</Eaddress> 
+  </Team>
+
+<Team Name="yellow"> 
+   <Ename> sham</Ename > 
+ <Eexperience> 3years</Eexperience > 
+ <Emobno> 9865451275</Emobno > 
+ <Eaddress>shrirampur</Eaddress> 
+  </Team>
+ </CemployeeTeam> 
